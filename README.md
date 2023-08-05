@@ -1,8 +1,13 @@
 # Leet Code exercices
 
+# TODO :
+- [ ] Rename files
+- [ ] Rename tests
+
+
 ## Arrays and hashing
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (5th August 2023)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (5th August 2023)
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -186,5 +191,5 @@ Heap and priority queue
 ## Other exercices
 
 ## List :
-- [x] lengthOfLongestSubstring (4th August 2023)
-- [x] findMedianSortedArrays (4th August 2023)
+- [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th August 2023)
+- [x] [findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (4th August 2023)
