@@ -1,14 +1,9 @@
 # Leet Code exercices
 
-# TODO :
-- [ ] Rename files
-- [ ] Rename tests
-
-
 ## Arrays and hashing
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (5th August 2023)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (5th August 2023)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) (5th August 2023)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
