@@ -14,31 +14,40 @@
 
 ## Two pointers
 
-- [ ] Valid Palindrome
-- [ ] Sum II Input Array Is Sorted
-- [ ] 3Sum
-- [ ] Container With Most Water
-- [ ] Trapping Rain Water
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+## Sliding windows
+
+- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 ## Stack
 
-- [ ] Valid Parentheses
-- [ ] Stack
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Generate Parentheses
-- [ ] Daily Temperatures
-- [ ] Car Fleet
-- [ ] Largest Rectangle In Histogram
+- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [ ] [Stack](https://leetcode.com/problems/min-stack/)
+- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
+- [ ] [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ## Binary search
 
-- [ ] Binary Search
-- [ ] Search a 2D Matrix
-- [ ] Koko Eating Bananas
-- [ ] Find Minimum In Rotated Sorted Array
-- [ ] Search In Rotated Sorted Array
-- [ ] Time Based Key Value Store
-- [ ] Median of Two Sorted Arrays
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [ ] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [ ] [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [ ] [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Linked List
 
@@ -72,13 +81,13 @@
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Serialize And Deserialize Binary Tree
 
-Tries
+## Tries
 
 - [ ] Implement Trie Prefix Tree
 - [ ] Design Add And Search Words Data Structure
 - [ ] Word Search II
 
-Heap and priority queue
+## Heap and priority queue
 
 - [ ] Kth Largest Element In a Stream
 - [ ] Last Stone Weight
@@ -197,24 +206,6 @@ Heap and priority queue
 
 ## Other exercices
 
-## List :
-
 - [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th
   August 2023)
 - [x] [findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (4th August 2023)
-
-
-```python
-class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
-        l = len(nums)
-        res = [0] * l
-        for i in range(l):
-            tmp = 1
-            for j in range(l):
-                if i == j:
-                    continue
-                tmp *= nums[j]
-            res[i] = tmp
-        return res
-```
