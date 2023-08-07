@@ -11,11 +11,10 @@ class TestFindMedianSortedArrays:
 
     def test_two(self):
         so = Solution()
-        self.value = so.findMedianSortedArrays([1,2], [3,4])
+        self.value = so.findMedianSortedArrays([1, 2], [3, 4])
         assert self.value == 2.50000
 
     def test_three(self):
         so = Solution()
-        self.value = so.findMedianSortedArrays([2, 3,4,54, 6464], [1, 3,4,5, 6, 22222])
+        self.value = so.findMedianSortedArrays([2, 3, 4, 54, 6464], [1, 3, 4, 5, 6, 22222])
         assert self.value == 4.00000
-

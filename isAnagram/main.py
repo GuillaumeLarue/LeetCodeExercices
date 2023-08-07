@@ -2,8 +2,8 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         ls = len(s)
         lt = len(t)
-        lis = [0]*26
-        lit = [0]*26
+        lis = [0] * 26
+        lit = [0] * 26
         if ls != lt:
             return False
         for e in s:

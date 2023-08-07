@@ -22,7 +22,6 @@ class Solution:
                 i += 1
                 tmp_count = 0
 
-
             max_count = max(max_count, tmp_count)
         return max_count
 

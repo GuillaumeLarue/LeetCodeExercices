@@ -1,6 +1,7 @@
 # Leet Code exercices
 
 ## Arrays and hashing
+
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (5th August 2023)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (5th August 2023)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) (5th August 2023)
@@ -12,13 +13,15 @@
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## Two pointers
+
 - [ ] Valid Palindrome
-- [ ] Sum II Input Array Is Sorted 
-- [ ] 3Sum 
+- [ ] Sum II Input Array Is Sorted
+- [ ] 3Sum
 - [ ] Container With Most Water
 - [ ] Trapping Rain Water
 
 ## Stack
+
 - [ ] Valid Parentheses
 - [ ] Stack
 - [ ] Evaluate Reverse Polish Notation
@@ -27,7 +30,8 @@
 - [ ] Car Fleet
 - [ ] Largest Rectangle In Histogram
 
-## Binary search 
+## Binary search
+
 - [ ] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
@@ -37,10 +41,11 @@
 - [ ] Median of Two Sorted Arrays
 
 ## Linked List
+
 - [ ] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
-- [ ] Remove Nth Node From End of List 
+- [ ] Remove Nth Node From End of List
 - [ ] Copy List With Random Pointer
 - [ ] Add Two Numbers
 - [ ] Linked List Cycle
@@ -49,31 +54,32 @@
 - [ ] Merge K Sorted Lists
 - [ ] Reverse Nodes In K Group
 
-## Trees 
-- [ ] Invert Binary Tree 
+## Trees
+
+- [ ] Invert Binary Tree
 - [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
 - [ ] Same Tree
 - [ ] Subtree of Another Tree
-- [ ] Lowest Common Ancestor of a Binary Search Tree 
+- [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
 - [ ] Count Good Nodes In Binary Tree
 - [ ] Validate Binary Search Tree
 - [ ] Kth Smallest Element In a Bst
-- [ ] Construct Binary Tree From Preorder And Inorder Traversal- [ ] 
+- [ ] Construct Binary Tree From Preorder And Inorder Traversal- [ ]
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Serialize And Deserialize Binary Tree
 
-
 Tries
+
 - [ ] Implement Trie Prefix Tree
 - [ ] Design Add And Search Words Data Structure
 - [ ] Word Search II
 
-
 Heap and priority queue
+
 - [ ] Kth Largest Element In a Stream
 - [ ] Last Stone Weight
 - [ ] K Closest Points to Origin
@@ -83,6 +89,7 @@ Heap and priority queue
 - [ ] Find Median From Data Stream
 
 ## BackTracking
+
 - [ ] Subsets
 - [ ] Combination Sum
 - [ ] Permutations
@@ -93,8 +100,8 @@ Heap and priority queue
 - [ ] Letter Combinations of a Phone Number
 - [ ] N Queens
 
-
 ## Graphs
+
 - [ ] Number of Islands
 - [ ] Clone Graph
 - [ ] Max Area of Island
@@ -110,6 +117,7 @@ Heap and priority queue
 - [ ] Word Ladder
 
 ## Advanced graphs
+
 - [ ] Reconstruct Itinerary
 - [ ] Min Cost to Connect All Points
 - [ ] Network Delay Time
@@ -118,6 +126,7 @@ Heap and priority queue
 - [ ] Cheapest Flights Within K Stops
 
 ## 1D Dynamic programing
+
 - [ ] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
 - [ ] House Robber
@@ -131,8 +140,8 @@ Heap and priority queue
 - [ ] Longest Increasing Subsequence
 - [ ] Partition Equal Subset Sum
 
-
 ## 2D Dynamic programing
+
 - [ ] Unique Paths
 - [ ] Longest Common Subsequence
 - [ ] Best Time to Buy And Sell Stock With Cooldown
@@ -146,6 +155,7 @@ Heap and priority queue
 - [ ] Regular Expression Matching
 
 ## Greedy
+
 - [ ] Maximum Subarray
 - [ ] Jump Game
 - [ ] Jump Game II
@@ -155,16 +165,17 @@ Heap and priority queue
 - [ ] Partition Labels
 - [ ] Valid Parenthesis String
 
-
 ## Intervals
+
 - [ ] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non Overlapping Intervals
-- [ ] Meeting Rooms   
-- [ ] Meeting Rooms II   
+- [ ] Meeting Rooms
+- [ ] Meeting Rooms II
 - [ ] Minimum Interval to Include Each Query
 
-## Math and geometry 
+## Math and geometry
+
 - [ ] Rotate Image
 - [ ] Spiral Matrix
 - [ ] Set Matrix Zeroes
@@ -174,7 +185,8 @@ Heap and priority queue
 - [ ] Multiply Strings
 - [ ] Detect Squares
 
-## Bit manipulation 
+## Bit manipulation
+
 - [ ] Single Number
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
@@ -186,5 +198,7 @@ Heap and priority queue
 ## Other exercices
 
 ## List :
-- [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th August 2023)
+
+- [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th
+  August 2023)
 - [x] [findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (4th August 2023)
