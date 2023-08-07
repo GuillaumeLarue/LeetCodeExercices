@@ -12,7 +12,13 @@ class TestGroupAnagrams:
     def test_two(self):
         so = Solution()
         self.value = so.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])
-        assert sorted(self.value) == sorted([["bat"], ["nat", "tan"], ["ate", "eat", "tea"]])
+        for i in range(len(self.value)):
+            self.value[i] = sorted(self.value[i])
+        res = [["bat"], ["nat", "tan"], ["ate", "eat", "tea"]]
+        for i in range(len(res)):
+            res[i] = sorted(res[i])
+
+        assert sorted(self.value) == sorted(res)
 
     def test_three(self):
         so = Solution()
