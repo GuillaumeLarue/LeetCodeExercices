@@ -31,5 +31,5 @@ class TestLongestConsecutive:
 
     def test_six(self):
         so = Solution()
-        self.value = so.longestConsecutive([1])
-        assert self.value == 1
+        self.value = so.longestConsecutive([2, 3, 4, 5, 6, 4, 5, 6, 7, 8, 9, 10])
+        assert self.value == 9
