@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def encode(self, strs: List[str]) -> str:
         s = ""
@@ -11,5 +14,16 @@ class Solution:
 
     def decode(self, strs: str) -> List[str]:
         sep = ":;"
-        for i in range(len(str)-len(sep)):
-            pass
+        res = []
+        word_tmp = ""
+        i = 0
+        while (i < len(strs)-1):
+            if strs[i] == sep[0] and strs[i+1] == sep[1]:
+                res.append(word_tmp)
+                word_tmp = ""
+                i += 1
+            else:
+                word_tmp += strs[i]
+            i += 1
+
+        return res

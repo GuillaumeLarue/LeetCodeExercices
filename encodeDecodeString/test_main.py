@@ -1,3 +1,5 @@
+from encodeDecodeString.main import Solution
+
 
 class TestEncodeDecodeString:
 
