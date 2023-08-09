@@ -2,6 +2,10 @@ from typing import List
 
 
 class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        l = len(nums)
+        res = [0] * l
+        return res
     def productExceptSelf2(self, nums: List[int]) -> List[int]:
         l = len(nums)
         res = [0] * l
@@ -14,7 +18,8 @@ class Solution:
             res[i] = tmp
         return res
     
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
+    def productExceptSelf3(self, nums: List[int]) -> List[int]:
+        # Division forbidden !
         l = len(nums)
         res = [0] * l
         zero = 0
