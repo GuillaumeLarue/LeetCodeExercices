@@ -53,6 +53,6 @@ class Solution:
                 return False
         for i in range(3):
             for j in range(3):
-                if not verifBlock(board, i,j):
+                if not verifBlock(board, i, j):
                     return False
         return True

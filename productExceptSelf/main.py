@@ -6,6 +6,7 @@ class Solution:
         l = len(nums)
         res = [0] * l
         return res
+
     def productExceptSelf2(self, nums: List[int]) -> List[int]:
         l = len(nums)
         res = [0] * l
@@ -17,7 +18,7 @@ class Solution:
                 tmp *= nums[j]
             res[i] = tmp
         return res
-    
+
     def productExceptSelf3(self, nums: List[int]) -> List[int]:
         # Division forbidden !
         l = len(nums)
@@ -25,7 +26,7 @@ class Solution:
         zero = 0
         for i in range(l):
             if nums[i] == 0:
-                zero+=1
+                zero += 1
         if zero >= 2:
             return res
         elif zero == 1:
