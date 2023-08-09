@@ -8,8 +8,8 @@
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (6th August 2023)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (7th August 2023)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (WIP)
-- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (9th August 2023)
-- [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (8th August 2023)
+- [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (9th August 2023)
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (9th August 2023)
 
 ## Two pointers
