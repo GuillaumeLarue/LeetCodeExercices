@@ -1,6 +1,20 @@
 
 class TestEncodeDecodeString:
 
+    """
+    Input: ["lint","code","love","you"]
+    Output: ["lint","code","love","you"]
+    Explanation:
+    One possible encode method is: "lint:;code:;love:;you"
+    """
+
+    """
+    Input: ["we", "say", ":", "yes"]
+    Output: ["we", "say", ":", "yes"]
+    Explanation:
+    One possible encode method is: "we:;say:;:::;yes"
+    """
+
     def test_one(self):
         so = Solution()
         l = ["eee", "eae"]
