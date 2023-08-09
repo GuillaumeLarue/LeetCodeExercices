@@ -6,9 +6,7 @@ class TestEncodeDecodeString:
     Output: ["lint","code","love","you"]
     Explanation:
     One possible encode method is: "lint:;code:;love:;you"
-    """
-
-    """
+  
     Input: ["we", "say", ":", "yes"]
     Output: ["we", "say", ":", "yes"]
     Explanation:
