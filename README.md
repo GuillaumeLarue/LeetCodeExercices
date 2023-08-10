@@ -7,7 +7,7 @@
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) (5th August 2023)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (6th August 2023)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (7th August 2023)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (WIP)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (10th August 2023)
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (8th August 2023)
 - [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (9th August 2023)
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (9th August 2023)
@@ -15,10 +15,10 @@
 ## Two pointers
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (9th August 2023)
-- [ ] [Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [ ] [Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (WIP)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (WIP)
 
 ## Sliding windows
 
