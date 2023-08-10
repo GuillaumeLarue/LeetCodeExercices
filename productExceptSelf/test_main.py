@@ -13,3 +13,18 @@ class TestProductExceptSelf:
         so = Solution()
         self.value = so.productExceptSelf([-1, 1, 0, -3, 3])
         assert self.value == [0, 0, 9, 0, 0]
+
+    def test_three(self):
+        so = Solution()
+        self.value = so.productExceptSelf([-1, 1, 0, -3, 3])
+        assert self.value == [0, 0, 9, 0, 0]
+
+    def test_four(self):
+        so = Solution()
+        self.value = so.productExceptSelf([0, 0])
+        assert self.value == [0, 0]
+
+    def test_five(self):
+        so = Solution()
+        self.value = so.productExceptSelf([1, 0])
+        assert self.value == [0, 1]
