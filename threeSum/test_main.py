@@ -12,13 +12,14 @@ def equalItems(res, res2):
     return True
 
 
-class TestMaxArea:
+class TestThreeSum:
     value = 0
 
     def test_one(self):
         so = Solution()
         self.value = so.threeSum(nums=[-1, 0, 1, 2, -1, -4])
         res = [[-1, -1, 2], [-1, 0, 1]]
+        assert self.value == res
         assert equalItems(res, self.value)
 
     def test_two(self):
@@ -49,4 +50,11 @@ class TestMaxArea:
              -9, -7, -11, 8, -8, -4, -15, 9, 11, 3, 3, -11, -7, 7, 5, -12, 1, -14, -1, 13, -9, -8, 7, 2, -6, -11, -1,
              -5, -4, -13, -7, 2, -13, -2, -5, -6, 9, -12, 10, -2, -2, -10, 2, 6, 4, 14, 2, -10, -15, -14, 10, -9, -15,
              -6, 0, -6, -2, 14, -3, 9, 8, -3, -12, 10, 2, -9, 11, -3, -6, -2, 10, 7, 3, -11, -10, -8, -12, -1])
+        #assert self.value == res
+        assert equalItems(res, self.value)
+
+    def test_four(self):
+        so = Solution()
+        self.value = so.threeSum([0, 0, 0, 0])
+        res = [[0, 0, 0]]
         assert equalItems(res, self.value)

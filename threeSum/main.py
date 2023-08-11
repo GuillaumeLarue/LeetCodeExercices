@@ -3,6 +3,30 @@ from typing import List
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        nums = sorted(nums)
+        le = len(nums)
+        res = []
+        for i in range(le):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+            l = i + 1
+            r = le - 1
+            while l < r:
+                v = nums[i] + nums[l] + nums[r]
+                if v == 0:
+                    res.append([nums[i], nums[l], nums[r]])
+                    l += 1
+                    while nums[l] == nums[l - 1] and r > l:
+                        l += 1
+                elif v > 0:
+                    r -= 1
+                else:
+                    l += 1
+
+        return res
+
+    def threeSum2(self, nums: List[int]) -> List[List[int]]:
+        # Too long
         l = len(nums)
         res = []
         for i in range(l):
