@@ -16,9 +16,9 @@
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (9th August 2023)
 - [x] [Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (10th August 2023)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (WIP)
+- [ ] [3Sum](https://leetcode.com/problems/3sum/)  (WIP)
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  (WIP)
+- [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 ## Sliding windows
 
