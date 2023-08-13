@@ -22,7 +22,7 @@
 
 ## Sliding windows
 
-- [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (13th August 2023)
+- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
@@ -31,7 +31,7 @@
 
 ## Stack
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (13th August 2023)
 - [ ] [Stack](https://leetcode.com/problems/min-stack/)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
