@@ -16,13 +16,13 @@
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (9th August 2023)
 - [x] [Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (10th August 2023)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)  (WIP)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  (WIP)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)  (11th August 2023)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  (12th August 2023)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 ## Sliding windows
 
-- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (13th August 2023)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
