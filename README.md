@@ -32,7 +32,7 @@
 ## Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (13th August 2023)
-- [ ] [Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/) (13th August 2023)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
