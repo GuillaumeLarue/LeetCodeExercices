@@ -33,7 +33,7 @@
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (13th August 2023)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/) (13th August 2023)
-- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (14th August 2023)
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
