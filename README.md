@@ -20,21 +20,12 @@
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  (12th August 2023)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
-## Sliding windows
-
-- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-
 ## Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (13th August 2023)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/) (13th August 2023)
 - [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (14th August 2023)
-- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (15th August 2023)
 - [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
 - [ ] [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
@@ -48,6 +39,15 @@
 - [ ] [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+## Sliding windows
+
+- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 ## Linked List
 
