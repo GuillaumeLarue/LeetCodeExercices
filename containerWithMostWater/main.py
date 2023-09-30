@@ -16,7 +16,6 @@ class Solution:
                 l += 1
         return res
 
-
     def maxArea2(self, height: List[int]) -> int:
         # Too long
         l = len(height)

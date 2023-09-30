@@ -2,7 +2,6 @@ from encodeDecodeString.main import Solution
 
 
 class TestEncodeDecodeString:
-
     """
     Input: ["lint","code","love","you"]
     Output: ["lint","code","love","you"]
@@ -31,7 +30,6 @@ class TestEncodeDecodeString:
 
         assert res_dec == l
 
-
     def test_three(self):
         so = Solution()
         l = ["", ""]
@@ -39,4 +37,3 @@ class TestEncodeDecodeString:
         res_dec = so.decode(res_enc)
 
         assert res_dec == l
-

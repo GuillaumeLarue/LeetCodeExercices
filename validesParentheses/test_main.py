@@ -16,5 +16,5 @@ class TestValidesParentheses:
 
     def test_three(self):
         so = Solution()
-        self.value = so.isValid(s = "(]")
+        self.value = so.isValid(s="(]")
         assert not self.value

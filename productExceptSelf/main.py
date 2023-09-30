@@ -12,7 +12,7 @@ class Solution:
                 prefix[i] = nums[i]
             else:
                 prefix[i] = prefix[i - 1] * nums[i]
-        for i in range(l-1, -1, -1):
+        for i in range(l - 1, -1, -1):
             if i >= (l - 1):
                 sufix[i] = nums[i]
             else:

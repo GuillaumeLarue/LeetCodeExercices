@@ -8,17 +8,16 @@ class Solution:
         for e in strs:
             s += e
             s += sep
-        
-        return s
 
+        return s
 
     def decode(self, strs: str) -> List[str]:
         sep = ":;"
         res = []
         word_tmp = ""
         i = 0
-        while (i < len(strs)-1):
-            if strs[i] == sep[0] and strs[i+1] == sep[1]:
+        while (i < len(strs) - 1):
+            if strs[i] == sep[0] and strs[i + 1] == sep[1]:
                 res.append(word_tmp)
                 word_tmp = ""
                 i += 1
