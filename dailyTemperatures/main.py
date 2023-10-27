@@ -3,7 +3,17 @@ from typing import List
 
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        return [1]
+        # Monotonic stack
+        stack = []
+        l = len(temperatures)
+        res = [0] * l
+        for i in range(l):
+            while stack and temperatures[stack[-1]] < temperatures[i]:
+                ind = stack.pop()
+                res[ind] = (i - ind)
+            stack.append(i)
+
+        return res
 
     def dailyTemperatures2(self, temperatures: List[int]) -> List[int]:
         # Too long and no stack
