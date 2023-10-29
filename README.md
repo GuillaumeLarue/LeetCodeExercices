@@ -9,7 +9,7 @@
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (7th August 2023)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (10th August 2023)
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (8th August 2023)
-- [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (9th August 2023)
+- [x] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (27th October 2023)
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (9th August 2023)
 
 ## Two pointers
@@ -27,13 +27,13 @@
 - [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (14th August
   2023)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (15th August 2023)
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (27th October 2023)
 - [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
 - [ ] [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ## Binary search
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/) (27th October 2023)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [ ] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -210,3 +210,9 @@
 - [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th
   August 2023)
 - [x] [findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (4th August 2023)
+
+
+## TODO
+
+- [ ] Programme pour créer du code vide
+- [ ] 
