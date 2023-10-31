@@ -25,12 +25,9 @@ class TestLongestConsecutive:
         assert self.value == 23
 
     def test_five(self):
-       so = Solution()
-       self.value = so.minEatingSpeed(piles=[312884470], h=312884469)
-       assert self.value == 2
-
-
-
+        so = Solution()
+        self.value = so.minEatingSpeed(piles=[312884470], h=312884469)
+        assert self.value == 2
 
 # [30, 11, 23, 4, 20]
 # [4, 11, 20, 23, 30]

@@ -6,7 +6,7 @@ class Solution:
 
         # Recursive solution
         def bin_search(nums: List[int], target: int, l: int, r: int):
-            #mid = r - l // 2
+            # mid = r - l // 2
             mid = (l + r) // 2
 
             if l > r:

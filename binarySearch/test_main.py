@@ -21,8 +21,9 @@ class TestBinarySearch:
 
     def test_four(self):
         so = Solution()
-        self.value = so.search([-1,0,5], 0)
+        self.value = so.search([-1, 0, 5], 0)
         assert self.value == 1
+
 
 class TestBinarySearch2:
     def test_one(self):
@@ -42,5 +43,5 @@ class TestBinarySearch2:
 
     def test_four(self):
         so = Solution()
-        self.value = so.search_2([-1,0,5], 0)
+        self.value = so.search_2([-1, 0, 5], 0)
         assert self.value == 1

@@ -25,7 +25,7 @@
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (13th August 2023)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/) (13th August 2023)
 - [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (14th August
-  2023)
+    2023)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (15th August 2023)
 - [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (27th October 2023)
 - [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
@@ -210,7 +210,6 @@
 - [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th
   August 2023)
 - [x] [findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (4th August 2023)
-
 
 ## TODO
 
