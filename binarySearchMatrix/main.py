@@ -7,7 +7,7 @@ class Solution:
         lar = len(matrix[0])
         haut = len(matrix)
         l = 0
-        r = lar*haut - 1
+        r = lar * haut - 1
         while l < r:
             mid = (r + l) // 2
             a, b = i2mat(lar, haut, mid)
@@ -30,7 +30,7 @@ def i2mat(lar, haut, i):
 
 
 def mat2i(lar, haut, i, j):
-    return i*lar + j
+    return i * lar + j
 
 
 if __name__ == '__main__':
