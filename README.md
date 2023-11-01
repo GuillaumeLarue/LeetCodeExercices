@@ -34,9 +34,9 @@
 ## Binary search
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/) (27th October 2023)
-- [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) (30 October 2023)
-- [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) (31 October 2023)
-- [ ] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) (30th October 2023)
+- [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) (31th October 2023)
+- [x] [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (1st November 2023)
 - [ ] [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
