@@ -43,8 +43,8 @@
 
 ## Sliding windows
 
-- [ ] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (2nd November 2023)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
