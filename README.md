@@ -24,8 +24,7 @@
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (13th August 2023)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/) (13th August 2023)
-- [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (14th August
-    2023)
+- [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (14th August 2023)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) (15th August 2023)
 - [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) (27th October 2023)
 - [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/)
@@ -52,7 +51,7 @@
 
 ## Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (7th November 2023)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
