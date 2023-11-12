@@ -43,7 +43,7 @@
 ## Sliding windows
 
 - [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (2nd November 2023)
-- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (12th November 2023)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
@@ -52,7 +52,7 @@
 ## Linked List
 
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (7th November 2023)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (11th November 2023)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
