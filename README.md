@@ -213,4 +213,8 @@
 ## TODO
 
 - [ ] Programme pour créer du code vide
-- [ ] 
+
+## Ressources
+
+- [Bitwise Operations](https://levelup.gitconnected.com/6-mind-blowing-uses-of-bitwise-operations-that-you-probably-never-knew-existed-9e0359cfeaaf)
+- [BFS](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9)

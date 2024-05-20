@@ -24,7 +24,7 @@ class Solution:
         # Iterative solution
         l = 0
         r = len(nums) - 1
-        while l < r:
+        while l <= r:
             mid = (r + l) // 2
             if nums[mid] == target:
                 return mid
@@ -32,6 +32,4 @@ class Solution:
                 r = mid - 1
             else:
                 l = mid + 1
-        if l == r and nums[l] == target:
-            return l
         return -1
