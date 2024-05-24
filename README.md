@@ -68,7 +68,7 @@
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (20th May 2024)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (20th May 2024)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (24th May 2024)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
