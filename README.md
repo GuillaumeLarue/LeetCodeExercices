@@ -69,7 +69,7 @@
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (20th May 2024)
 - [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (26th May 2024)
 - [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (24th May 2024)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/) (25th May 2024)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
