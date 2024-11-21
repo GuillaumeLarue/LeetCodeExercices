@@ -201,13 +201,14 @@
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/) (9th November 2024)
 - [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) (10th November 2024)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/) (10th November 2024)
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) (in progress)
 - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
 ## Other exercices
 
 - [x] [lengthOfLongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (4th August 2023)
 - [x] [findMedianSortedArrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (4th August 2023)
+- [ ] [zigzagMatrix](https://leetcode.com/problems/diagonal-traverse/description/)
 
 ## Ressources
 
